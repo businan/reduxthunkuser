@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  text-align: center;
+}
+.table-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: wheat;
+  align-items: center;
+}
+
+.table-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+h4 {
+  width: 20%;
+}
